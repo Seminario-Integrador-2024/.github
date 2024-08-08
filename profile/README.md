@@ -17,14 +17,11 @@
 
 La Facultad Regional Resistencia es una institución educativa de nivel superior que forma parte de la Universidad Tecnológica Nacional. La UTN es una universidad pública y gratuita que tiene como objetivo formar profesionales altamente capacitados en diversas áreas de la ingeniería y la tecnología.
 
-## 🌈 Directrices de contribución
+## 🌈 Directrices de la catedra
 
-¡Nos encantaría que te sumes a nuestra comunidad! Puedes contribuir de diferentes maneras, como:
+El Seminario Integrador es una materia obligatoria para todos los estudiantes de la Facultad Regional Resistencia. En esta materia, los estudiantes deben realizar un proyecto de desarrollo que les permita aplicar los conocimientos adquiridos a lo largo de su carrera.
 
-- Reportando errores en la documentación.
-- Proponiendo mejoras en los contenidos.
-- Creando nuevos recursos educativos.
-- Compartiendo tus conocimientos y experiencias con otros estudiantes.
+Para obtener más información sobre el Seminario Integrador, puedes visitar el siguiente enlace: [Seminario Integrador](https://frre.utn.edu.ar/si/)
 
 ## 👩‍💻 Recursos útiles
 
@@ -40,3 +37,11 @@ Puedes encontrar más información sobre la Facultad Regional Resistencia en los
 ## 🧙 ¡Gracias por visitarnos!
 
 ¡Esperamos que encuentres toda la información que necesitas sobre la Facultad Regional Resistencia! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos. ¡Estamos aquí para ayudarte!
+
+## Catedra: Seminario Integrador / Habilitación Profesional
+
+- Cont. Nancy Chica: Jefa de Catedra
+  [Currículum](https://www.frre.utn.edu.ar/isi/clean/files/get/item/13082.pdf) - [Correo](mailto:nbchica@hotmail.com)
+
+- Ing. Alejandra Balbastro: Jefa de Trabajos Prácticos
+  [Currículum](https://www.frre.utn.edu.ar/isi/clean/files/get/item/13074.pdf) - [Correo](mailto:balbastroale@gigared.com)
