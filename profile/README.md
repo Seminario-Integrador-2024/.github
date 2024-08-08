@@ -17,18 +17,14 @@
 
 La Facultad Regional Resistencia es una institución educativa de nivel superior que forma parte de la Universidad Tecnológica Nacional. La UTN es una universidad pública y gratuita que tiene como objetivo formar profesionales altamente capacitados en diversas áreas de la ingeniería y la tecnología.
 
-## 🌈 Directrices de la catedra
-
-El Seminario Integrador es una materia obligatoria para todos los estudiantes de la Facultad Regional Resistencia. En esta materia, los estudiantes deben realizar un proyecto de desarrollo que les permita aplicar los conocimientos adquiridos a lo largo de su carrera.
-
-Para obtener más información sobre el Seminario Integrador, puedes visitar el siguiente enlace: [Seminario Integrador](https://frre.utn.edu.ar/si/)
-
 ## 👩‍💻 Recursos útiles
 
 Puedes encontrar más información sobre la Facultad Regional Resistencia en los siguientes enlaces:
 
 - [Sitio web oficial](https://frre.utn.edu.ar)
-- [Redes sociales](https://www.facebook.com/UTNFRRE)
+- [Facebook](https://www.facebook.com/frreutn)
+- [Twitter](https://twitter.com/utn_frre)
+- [YouTube](https://www.youtube.com/channel/UC8omWIM1vl8TAaGvFwuefdQ)
 
 ## 🍿 Datos curiosos
 
@@ -36,12 +32,22 @@ Puedes encontrar más información sobre la Facultad Regional Resistencia en los
 
 ## 🧙 ¡Gracias por visitarnos!
 
-¡Esperamos que encuentres toda la información que necesitas sobre la Facultad Regional Resistencia! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos. ¡Estamos aquí para ayudarte!
+## 🌈 Directrices de la catedra
+
+El Seminario Integrador es una materia obligatoria para todos los estudiantes de la Facultad Regional Resistencia. En esta materia, los estudiantes deben realizar un proyecto de desarrollo que les permita aplicar los conocimientos adquiridos a lo largo de su carrera.
+
+Para obtener más información sobre el Seminario Integrador, puedes consultar al personal de la catedra via correo [aqui](mailto:isi.habilitacion@frre.utn.edu.ar).
 
 ## Catedra: Seminario Integrador / Habilitación Profesional
+
+Ciclo lectivo 2024
+
+### Docentes
 
 - Cont. Nancy Chica: Jefa de Catedra
   [Currículum](https://www.frre.utn.edu.ar/isi/clean/files/get/item/13082.pdf) - [Correo](mailto:nbchica@hotmail.com)
 
 - Ing. Alejandra Balbastro: Jefa de Trabajos Prácticos
   [Currículum](https://www.frre.utn.edu.ar/isi/clean/files/get/item/13074.pdf) - [Correo](mailto:balbastroale@gigared.com)
+
+Para mas información sobre las catedras en la FRRe, puedes consultar el siguiente [link](https://www.frre.utn.edu.ar/isi/paginas/view/item/4319).
